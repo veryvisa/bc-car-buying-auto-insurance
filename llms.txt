@@ -14,7 +14,7 @@
 下面是一个常见情形，不是某位具体买家的故事。 一位新移民在网上谈好一辆 2018 年的二手车，2 万加元，周末当面付了款。周一和卖家一起去 Autoplan 经纪处过户，系统显示这辆车的平均批发价是 2.3 万——PST 按 2.3 万算，12% 就是 2,760 加元，比他预想的多出一截。 这条规则写在 BC 财政厅的 PST 308 号公告里：私人买卖，按成交价和平均批发价中较高的那个征税。很多人听说过「买车 PST 7%」，那只是从车行买、价格不高时的税率。 车本身往往不是最贵的，没看清的那几步才是。
 
 ## PST 估算器
-按 BC 财政厅 Bulletin PST 308（2026 年 8 月修订）的税率表估算。私人买卖的平均批发价以 ICBC 系统为准，没有就先留空。 html <div class="pstcalc" style="border:1px solid var(--accent,3b4a9c);border-radius:14px;padding:16px;background:var(--soft,eef0fa);max-width:560px" <label style="display:block;margin:0 0 10px"从谁那里买 <select id="pst-seller" style="display:block;width:100%;margin-top:4px;padding:8px;font-size:16px" <option value="private"私人卖家（私人买卖）</option <option value="dealer"GST 登记的车行（新车或二手）</option </select </label <label style="display:block;margin:0 0 10px"车辆类型 <select id="pst-kind" style="display:block;width:100%;margin-top:4px;padding:8px;font-size:16px" <option value="pass"乘用车（轿车、SUV、小客车等）</option <option value="nonpass"非乘用车</option </select </label <label style="display:block;margin:0 0 10px"是不是零排放车（纯电、燃料电池等） <select id="pst-zev" style="display:block;width:100%;margin-top:4px;padding:8px;font-size:16px" <option value="no
+按 BC 财政厅 Bulletin PST 308（2026 年 8 月修订）的税率表估算。私人买卖的平均批发价以 ICBC 系统为准，没有就先留空。 买法 乘用车税率（2026 年 8 月版公告） ------ 私人买卖 12%（125,000 加元起 15%，150,000 加元起 20%），按成交价与平均批发价较高者 从 GST 登记的车行买 低于 55,000 加元 7%，之后 8%、9%、10%，125,000 加元起 15%，150,000 加元起 20% 零排放车从车行买 低于 75,000 加元 7%，档位同理上移；有效到 2027-02-22
 
 ## 买车前十分钟能做完的事
 1. 核卖家：车行可在 VSA 查牌照；留心假装私人卖家的 curber。 2. 核车：VIN 与车上、文件上的一致，看 ICBC 车辆理赔历史报告或 CARFAX 报告。 3. 查留置权：按 VIN 在 BC 个人财产登记处（PPR）查有没有贷款没还清。 4. 请自己找的技师验车，别只听卖家介绍的人。 5. 写清 Bill of Sale，用 ICBC 的过户表格办理转让。 6. 买车后 10 天内到 Autoplan 经纪处登记，同时办保险。
