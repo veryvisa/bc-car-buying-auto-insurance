@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veryvisa.github.io/bc-car-buying-auto-insurance/sitemap.xml
