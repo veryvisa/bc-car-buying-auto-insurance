@@ -5,7 +5,7 @@
 网址：https://veryvisa.github.io/bc-car-buying-auto-insurance/
 提供方：微出国（VeryVisa）。微出国是在加拿大不列颠哥伦比亚省的中文专业服务团队，服务海外华人家庭与小企业。
 咨询：页面底部表单，或邮件 veryvisa.com@gmail.com
-信息截至：2026-10-11
+信息截至：2026-10-26
 
 ## 报价前核对三组信息
 一 · 车辆与用途 车型、主要停放地区、通勤或商业用途，先按实际情况说明。 - 先看：候选车型的首年保费，看车阶段就可以请 Autoplan 经纪估算。 - 易漏：ICBC 网上估价只适用于续保，新保单须由经纪出具。 - 下一步：把两三款候选车型交来，按相同保障逐一估算首年保费。 签约之前，先知道这辆车一年的保险。 二 · 驾驶人与经历 谁经常开、谁偶尔开、海外驾龄如何证明，按保险公司的要求核对。 - 先看：据 ICBC 说明，保费所认的驾龄最多计 15 年。 - 易漏：新居民只需驾照历史，无需过往保险记录；非英文文件须由 ICBC 认可的译员翻译。 - 下一步：按原驾照的发证地准备所需文件。 驾龄证明按发证地准备，家人加入驾驶时另算。 三 · 保障与自付 把责任额度、碰撞与综合险、免赔额放在同一张表上比较。 - 先看：基本险由 ICBC 提供，任选险另行比较。 - 易漏：续保通知只列出 ICBC 的任选险价格。 - 下一步：车已变旧、家人开始开车或通勤改变时，续保前重新比较一次。 同一套保障放在一起比，报价才可比。
@@ -17,16 +17,16 @@
 初到 BC 的新移民 第一次在 BC 购车，尚不熟悉 ICBC 与 PST，也不清楚海外驾龄如何使用。 考虑私人二手车 价格低于车行，但贷款、车史与过户需要自行核查。 为家中添车或为子女购车 希望了解一年的总支出，以及保险大致如何计算。 在车行、私人与网络平台之间权衡 需要分清哪些保护只在向持牌车行购车时才有。 第一次在 BC 投保 从外省或海外搬来，原有的保单与驾龄如何衔接，第一年的保费为何与原居住地相差甚远。 续保之前重新核对 续保通知只列出 ICBC 的任选险价格；车已变旧、家人开始开车、通勤距离改变时，保障值得重新比较一次。
 
 ## 工作方式
-1. 先以下方的估算器估算一遍 PST。 2. 在页末留下邮箱，写明车型、新车或二手、卖家类型与所询事项。 3. 我们回复一页清单，并列出应向卖家提出的问题。 4. 已取得 ICBC 或 CARFAX 报告的，可发来由我们解读。 5. 上路之前，在表单中选择「车险报价与咨询」，完成车险的配置与比较。
+1. 先用页内的 PST 估算器算一遍购车税费。 2. 在页末留下邮箱，写明车型、新车或二手、卖家类型与所询事项。 3. 我们回复一页清单，并列出应向卖家提出的问题。 4. 已取得 ICBC 或 CARFAX 报告的，可发来由我们解读。 5. 上路之前，在表单中选择「车险报价与咨询」，完成车险的配置与比较。
 
 ## 服务边界
 寻车与议价由车行承担，验车交合格技师。本服务提供成本测算、报告解读、卖家核对与车险配置，不代为寻车、议价或成交。
 
-## 买车与续保时常被问到的几件事
-以下几段取自公开论坛中车主与买家的原话，链接附后。个案经过以原帖为准。 买车之前，想先知道保险要多少。 「I just want to know if my insurance will be 1k or 5k a year etc. Is there really no website I can use... I really have to go into a physical store??」（r/britishcolumbia，2022-02）。另一位先查了保费，最后放弃换车：「Didn't end up buying the car.」（r/vancouver，2020-07）。ICBC 的网上估价只适用于续保，新保单要经 Autoplan 经纪出具，看车时就把候选车型交给经纪估算，比签约后再算稳妥。 续保单上的任选险，从没想过可以另比。 「on the renewal reminder it only lists the costs ICBC charges for these extra insurance options and I am sure nobody thinks twice. I never have.」（r/britishcolumbia，2013-08）。基本险只由 ICBC 提供；碰撞、综合与扩展责任可以向 ICBC 或私营保险公司投保，比较时固定保障与免赔额，再看价格与除外条款。 保多少，心里没数。 「I really have no idea what extended coverage I really need.」（r/vancouver，2013-09）；也有人觉得「i feel like i was pressured into getting more coverage than i actually need」（r/vancouver，2020-07）。据 ICBC，基本险含 20 万加元第三者责任；未投保碰撞险时，自己负责的事故由自己承担修车费。额度与免赔额的取舍，宜按车值、贷款与家中现金逐项列明。 海外驾龄能不能
-
 ## PST 估算器
 按 BC 财政厅 Bulletin PST 308（2026 年 8 月修订）的税率表估算。私人买卖的平均批发价以 ICBC 系统为准，尚未取得时可暂不填写。 购车渠道 乘用车税率（2026 年 8 月版公告） ------ 私人买卖 12%（125,000 加元起 15%，150,000 加元起 20%），按成交价与平均批发价较高者 向 GST 登记的车行购买 低于 55,000 加元 7%，其后 8%、9%、10%，125,000 加元起 15%，150,000 加元起 20% 零排放车向车行购买 低于 75,000 加元 7%，档位依此上移；有效至 2027-02-22
+
+## 买车与续保时常被问到的几件事
+以下几段取自公开论坛中车主与买家的原话，链接附后。个案经过以原帖为准。 买车之前，想先知道保险要多少。 「I just want to know if my insurance will be 1k or 5k a year etc. Is there really no website I can use... I really have to go into a physical store??」（r/britishcolumbia，2022-02）。另一位先查了保费，最后放弃换车：「Didn't end up buying the car.」（r/vancouver，2020-07）。ICBC 的网上估价只适用于续保，新保单要经 Autoplan 经纪出具，看车时就把候选车型交给经纪估算，比签约后再算稳妥。 续保单上的任选险，从没想过可以另比。 「on the renewal reminder it only lists the costs ICBC charges for these extra insurance options and I am sure nobody thinks twice. I never have.」（r/britishcolumbia，2013-08）。基本险只由 ICBC 提供；碰撞、综合与扩展责任可以向 ICBC 或私营保险公司投保，比较时固定保障与免赔额，再看价格与除外条款。 保多少，心里没数。 「I really have no idea what extended coverage I really need.」（r/vancouver，2013-09）；也有人觉得「i feel like i was pressured into getting more coverage than i actually need」（r/vancouver，2020-07）。据 ICBC，基本险含 20 万加元第三者责任；未投保碰撞险时，自己负责的事故由自己承担修车费。额度与免赔额的取舍，宜按车值、贷款与家中现金逐项列明。 海外驾龄能不能
 
 ## 购车前自查
 1. 核对卖家：车行可在 VSA 查询牌照；留意冒充私人卖家的 curber。 2. 核对车辆：VIN 与车身、文件上的一致，查阅 ICBC 车辆理赔历史报告或 CARFAX 报告。 3. 查询留置权：按 VIN 在 BC 个人财产登记处（PPR）查询是否有未清偿的贷款。 4. 由您自行选定的技师验车，不宜只听卖家介绍的人。 5. 写明 Bill of Sale，以 ICBC 的过户表格办理转让。 6. 购车后 10 天内到 Autoplan 经纪处登记，同时办理保险。
